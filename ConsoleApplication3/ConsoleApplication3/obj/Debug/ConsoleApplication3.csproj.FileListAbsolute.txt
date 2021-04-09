@@ -1,0 +1,6 @@
+c:\users\кабинет 506\documents\visual studio 2015\Projects\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe.config
+C:\Users\Кабинет 506\Documents\Visual Studio 2015\Projects\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe
+C:\Users\Кабинет 506\Documents\Visual Studio 2015\Projects\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.pdb
+C:\Users\Кабинет 506\Documents\Visual Studio 2015\Projects\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.csprojResolveAssemblyReference.cache
+C:\Users\Кабинет 506\Documents\Visual Studio 2015\Projects\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.exe
+C:\Users\Кабинет 506\Documents\Visual Studio 2015\Projects\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.pdb
