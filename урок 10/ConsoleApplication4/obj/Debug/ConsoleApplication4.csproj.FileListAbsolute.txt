@@ -4,3 +4,9 @@ c:\users\кабинет 506\documents\visual studio 2015\Projects\ConsoleApplica
 c:\users\кабинет 506\documents\visual studio 2015\Projects\ConsoleApplication4\ConsoleApplication4\obj\Debug\ConsoleApplication4.csprojResolveAssemblyReference.cache
 c:\users\кабинет 506\documents\visual studio 2015\Projects\ConsoleApplication4\ConsoleApplication4\obj\Debug\ConsoleApplication4.exe
 c:\users\кабинет 506\documents\visual studio 2015\Projects\ConsoleApplication4\ConsoleApplication4\obj\Debug\ConsoleApplication4.pdb
+C:\Users\Кабинет 506\Desktop\amd\урок 10\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe.config
+C:\Users\Кабинет 506\Desktop\amd\урок 10\ConsoleApplication4\obj\Debug\ConsoleApplication4.exe
+C:\Users\Кабинет 506\Desktop\amd\урок 10\ConsoleApplication4\obj\Debug\ConsoleApplication4.pdb
+C:\Users\Кабинет 506\Desktop\amd\урок 10\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe
+C:\Users\Кабинет 506\Desktop\amd\урок 10\ConsoleApplication4\bin\Debug\ConsoleApplication4.pdb
+C:\Users\Кабинет 506\Desktop\amd\урок 10\ConsoleApplication4\obj\Debug\ConsoleApplication4.csprojResolveAssemblyReference.cache

@@ -10,29 +10,31 @@ namespace ConsoleApplication4
     {
         static void Main(string[] args)
         {
-           
-            
-          
 
 
-            
 
-            //далее 1.15 е
+
+
+
+
+            //далее 1.17 б
             Console.WriteLine("Напишите свое число СЭР");
-            Console.WriteLine("Введите число a");
-            double a = Convert.ToDouble(Console.ReadLine());
-            Console.WriteLine("Введите число c");
-            double c = Convert.ToDouble(Console.ReadLine());
-            Console.WriteLine("Введите число b");
-            double b = Convert.ToDouble(Console.ReadLine());
-            
-
-            double b5 = (-b + Math.Sqrt(Math.Pow(b,2)-4*a*c))/(a*2);
-
-
-
-            Console.WriteLine("Решебник Котельникова. ответ:" + b5);
+            Console.WriteLine("Введите число x");
+            double x = Convert.ToDouble(Console.ReadLine());
+            Console.WriteLine("Введите число x");
+            double x2 = Convert.ToDouble(Console.ReadLine());
+            double x3 = Math.Sqrt(Math.Pow(x, 2)) + (Math.Pow(x2, 2));
+            Console.WriteLine("Ваш ответ:" +x3);
             Console.ReadKey();
+
+
+
+
+
+
+
+
+
 
         }
     }
